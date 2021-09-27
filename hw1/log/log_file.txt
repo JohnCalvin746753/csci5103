@@ -1,0 +1,9 @@
+sighandler caught SIGUSR1
+SIGUSR1 received in parent 
+sighandler caught SIGUSR2
+SIGUSR2 received in child 
+sighandler caught SIGUSR1
+SIGUSR1 received in parent 
+sighandler caught SIGUSR2
+SIGUSR2 received in child 
+sighandler caught SIGUSR1
