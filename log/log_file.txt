@@ -1,0 +1,8 @@
+PARENT::parent process executing with LIMIT = 2
+PARENT::parent process id = 817610
+CHILD::child process executing with LIMIT = 2
+CHILD::child process id = 817611
+Parent 0
+Child 0
+Parent 1
+Child 1
